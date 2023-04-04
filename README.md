@@ -11,6 +11,6 @@ This was my process of making this program:
 
 ![Alt Text: As the monitor cursor moves, the champion splash arts change to look at it](https://media0.giphy.com/media/1tfuKjuoFIhYRHB877/giphy.gif)
 
-## pointerpointer.com for League of Legends:
+### pointerpointer.com for League of Legends
 
 use at https://1treetreetree.github.io/league-pointer-pointer/
