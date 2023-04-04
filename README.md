@@ -1,6 +1,16 @@
-# pointerpointer.com but for League of Legends
+# Synopsis:
 
+This project is inspired by "pointerpointer.com" which was a phenomenon on the internet back around 2012. As the webpage viewer moves their cursor around the screen, the website displays a different image of a person pointing at a location, and the images change dewpending on where te viewer's cursor is located. I loved that website, so I decided to combine two things I admire into one coding project and so created this.
+
+# How it works
+This was my process of making this program:
+1. Download all League of Legends champion splash arts (preferably with a web crawler)
+2. For each champpion, determine a coordinate on their splash art where their eyes are looking
+3. Turn those coordinates into a color-coded voronoi map
+4. With the voronoi map in the background, display the champion splash art that corresponds with the specific RGB color that the cursor is on, and show the champion image above the voronoi map, keeping it hidden
+
+![Alt Text: As the monitor cursor moves, the champion splash arts change to look at it](https://media0.giphy.com/media/1tfuKjuoFIhYRHB877/giphy.gif)
+
+## pointerpointer.com for League of Legends:
 
 use at https://1treetreetree.github.io/league-pointer-pointer/
-
-...i'll update this tomorrow adding details on how this program works
