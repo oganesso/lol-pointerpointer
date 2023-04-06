@@ -13,4 +13,4 @@ This was my process of making this program:
 
 ### pointerpointer.com for League of Legends
 
-use at https://oganesso.github.io/league-pointer-pointer/
+use at https://oganesso.github.io/lol-pointerpointer/
